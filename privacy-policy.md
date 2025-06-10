@@ -1,42 +1,78 @@
 
+# Privacy Policy for Prison Dates  
+**Last Updated:** June 2025  
 
-# Privacy Policy
+## 1. Introduction  
+Prison Dates ("the App") is a case management tool for legal professionals, developed by Najeeb Aslan. This Privacy Policy explains how we collect, use, and protect your data.  
 
- مواعيد تمديدات الحبس الإحتياطي takes your privacy seriously. To better protect your privacy I provide this privacy policy notice explaining the way your personal information is collected and used.
+By using the App, you consent to this policy.  
 
+## 2. Data We Collect  
 
-## Collection of Routine Information
+### a) Account Information  
+- Email address  
+- Name (optional)  
+- Profile picture (optional)  
+- Authentication tokens (Google/Apple Sign-In)  
 
-It performs this file access in order to read pdf files and ensures access to your google drive account. 
+### b) Case Data  
+- Prisoner names  
+- Charge details  
+- Dates (arrest, hearings, releases)  
+- Notes added by users  
 
+### c) Technical Data  
+- Device type (iOS/Android)  
+- App usage analytics (crash reports, feature usage)  
 
-## Cookies
+## 3. How We Use Data  
 
- Does not use any cookies
+| Purpose | Data Used |
+|---------|-----------|
+| Account management | Email, name |
+| Case tracking | Prisoner details, dates |
+| Notifications | Case deadlines |
+| App improvement | Usage analytics |  
 
+## 4. Data Storage & Security  
 
-## Advertisement and Other Third Parties
+### a) Storage Locations  
+- **Firebase Services**:  
+  - Authentication (Firebase Auth)  
+  - Case data (Cloud Firestore)  
+  - Files (Firebase Storage)  
 
- It does not contain a third party and does not contain any ads 
+### b) Encryption  
+- All backups use AES-256 encryption  
+- Database connections secured via TLS  
 
+### c) Access Control  
+- Data is only accessible to:  
+  - The account owner  
+  - App administrators (for technical support)  
 
-## Links to Third Party Websites
+## 5. Third-Party Services  
 
- It does not contain any external links 
+| Service | Purpose | Privacy Policy |
+|---------|---------|----------------|
+| Firebase | Backend infrastructure | [Google Privacy](https://policies.google.com/privacy) |  
+| Google Drive* | Backup storage | [Google Drive Terms](https://policies.google.com/terms) |  
 
+*Optional feature controlled by user  
 
-## Security
+## 6. User Rights  
 
-The security of your personal information is important to me, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While I strive to use commercially acceptable means to protect your personal information, I cannot guarantee its absolute security.
+You may:  
+- Export your data via PDF  
+- Delete your account (erases all associated data)  
+- Opt out of analytics (in Settings)  
 
+## 7. Policy Changes  
+Significant updates will be notified via:  
+- In-app alerts  
+- Email to registered users  
 
-## Changes To This Privacy Policy
-
- This Privacy Policy is effective as of [2022/6/24/5:54] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. 
-
-I reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. If I make any material changes to this Privacy Policy, I will notify you either through the email address you have provided me , or by placing a prominent notice on my app.
-
-
-## Contact Information
-
-For any questions or concerns regarding the privacy policy, please send me an email to najeebaslan2019@gmail.com .
+## 8. Contact  
+For data requests or concerns:  
+- Email: najeebaslan2019@gmail.com  
+- Address: Yemen hodidah
